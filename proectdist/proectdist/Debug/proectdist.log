@@ -1,0 +1,4 @@
+﻿  dist1.c
+C:\Users\Trolozor\source\repos\proectdist\proectdist\dist1.c(15,36): warning C4047: =: "int *" отличается по уровням косвенного обращения от "int"
+C:\Users\Trolozor\source\repos\proectdist\proectdist\dist1.c(22,16): warning C4013: rand: нет определения; предполагается "extern" с возвратом типа "int"
+  proectdist.vcxproj -> C:\Users\Trolozor\source\repos\proectdist\Debug\proectdist.exe
